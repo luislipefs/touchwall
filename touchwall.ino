@@ -1,5 +1,6 @@
 /***********************************************************
 Touch board mapping for keyboard
+based on Bare Conductive example code
 ************************************************************/
 // touch includes
 #include <MPR121.h>
